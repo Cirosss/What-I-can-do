@@ -14,7 +14,7 @@ Qui potete trovare alcune delle cose più particolari e interessanti che ho avut
 - Porta Airtag: si tratta di un oggetto che è stato ideato per venire incontro alle esigenze di un collega. L'esigenza era quella di poter controllare da remoto la posizione della sua bicicletta attraverso un airtag, lo stesso airtag non poteva essere in vista quindi si è pensato di nasconderlo sotto la sella. Dopo aver preso le misure e aver fatto le dovuto prove ecco quello che è venuto fuori.
 - Schiaccianoci: si tratta di uno schiaccianoci "a vite" realizzato cercando di copiare fedelmente lo stesso strumento di legno presente in casa di molti
 
-All'intenro delle cartelle è presente il file CAD.
+All'interno delle cartelle è presente il file CAD.
 
 # CAD 3D
 
