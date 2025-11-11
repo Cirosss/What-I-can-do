@@ -17,4 +17,6 @@ Qui potete trovare alcune delle cose più particolari e interessanti che ho avut
 All'interno delle cartelle è presente il file CAD.
 
 # CAD 3D
+Ho un'esperienza scolastica e universitaria di circa 8 anni sul software CAD SolidWorks. Ho iniziato ad usare SW di disegno alle scuole superiori e ho continuato fino all'università; ancora oggi mi diletto ad usare SolidWorks principalmente per disegnare alcuni oggetti che stampo in 3D. In particolare in questa cartella si trova un progetto eseguito durante la laurea magistrale; tale progetto consisteva nella progettazione di un riduttore meccanico a due salti di velocità. I dati iniziale che sono stati forniti erano il rapporto di trasmissione e le geometrie di ingombro da rispettare, su tutto il resto abbiamo avuto carta bianca. Quindi abbiamo eseguito il dimensionamento, delle ruote dentate, degli alberi, delle linguette e dei cuscinetti; in più abbiamo dovuto scrivere la procedura di montaggio per l'assieme e dovuto realizare il disegno CAD dello stesso. Il disegno CAD è stato realizzato quasi totalmente da me, essendo quello con più esperienza del gruppo.
 
+# Matlab + Simulink
