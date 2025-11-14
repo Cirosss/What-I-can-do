@@ -17,8 +17,17 @@ Qui potete trovare alcune delle cose più particolari e interessanti che ho avut
 All'interno delle cartelle è presente il file CAD.
 
 # CAD 3D
-Ho un'esperienza scolastica e universitaria di circa 8 anni sul software CAD SolidWorks. Ho iniziato ad usare SW di disegno alle scuole superiori e ho continuato fino all'università; ancora oggi mi diletto ad usare SolidWorks principalmente per disegnare alcuni oggetti che stampo in 3D. In particolare in questa cartella si trova un progetto eseguito durante la laurea magistrale; tale progetto consisteva nella progettazione di un riduttore meccanico a due salti di velocità. I dati iniziale che sono stati forniti erano il rapporto di trasmissione e le geometrie di ingombro da rispettare, su tutto il resto abbiamo avuto carta bianca. Quindi abbiamo eseguito il dimensionamento, delle ruote dentate, degli alberi, delle linguette e dei cuscinetti; in più abbiamo dovuto scrivere la procedura di montaggio per l'assieme e dovuto realizare il disegno CAD dello stesso. Il disegno CAD è stato realizzato quasi totalmente da me, essendo quello con più esperienza del gruppo.
-I software di disegno CAD non li utilizzo nel io lavoro attuale, ma lu uso spesso nel mio tempo libero per piacere e poter realizzare modellini da stampare in 3D con una stampante a filamento, quindi ho una ottima dimestichezza con i softare di disegno 3D. Nella sezione seguente sono descirtti alcuni oggetti che ho stampato in 3D.
+Ho maturato circa 8 anni di esperienza con il software CAD SolidWorks, iniziando a utilizzarlo alle scuole superiori e proseguendo durante l’università. Ancora oggi lo impiego nel tempo libero per modellare oggetti destinati alla stampa 3D.
+
+In questa cartella è presente un progetto sviluppato durante la laurea magistrale, riguardante la progettazione di un riduttore meccanico a due stadi. I dati forniti inizialmente includevano il rapporto di trasmissione richiesto e le geometrie di ingombro da rispettare; per il resto avevamo completa libertà progettuale.
+Il lavoro comprendeva:
+- Dimensionamento delle ruote dentate, degli alberi, delle linguette e dei cuscinetti;
+- Definizione della procedura di montaggio dell’assieme;
+- Realizzazione completa del modello CAD.
+
+La modellazione 3D è stata eseguita quasi interamente da me, in quanto membro del gruppo con maggiore esperienza su SolidWorks.
+
+Sebbene nel mio attuale lavoro non utilizzi quotidianamente software CAD, continuo a usarli regolarmente nel tempo libero per passione e per realizzare modelli stampabili in 3D tramite una stampante a filamento.
 
 # Matlab + Simulink
 Matlab e Simulink sono due software che ho utilizzato moltissimo durante la laurea magistrale e per la tesi magistrale. Nel dettaglio ho utilizzato molto Simulink per la tesi dove ho realizzato un modello virtuale di un Rod-end, ovvero un giunto sferico utilizzato in applicazioni areonatiche per collegare le superfici di volo all'attuatore che le fa muovere. Lo scopo della creazione del modello è quello di poter testare condizioni che sono difficilmente realizzabili nella realtà. All'interno della cartella "Tesi" è presente il pdf della Tesi e il modello Simulink. L'esperienza di Tesi è stata principalmente nell'utilizzo di Simulink ma ho potuto approfondire l'uso di Matlab durante un progetto di gruppo che consisteva nel mettere in funzione un banco meccatronico. Tale banco consisteva in un giunto di forza a 6 assi alla cui estremità venita fatta oscillare una massa con una molla, lo scopo era poi quello di estrapolare i dati dalle celle di carico e stimare la rigidezza della molla e il peso della massa. In particolare in questo progetto mi sono occupato della creazione del codice Matlab che attraverso i valori delle celle di carico stimava i valori richiesti. Nella cartella potete trovare il codice Matlab utilizzato e la relazione scritta dove è spiegato il lavoro svolto. 
